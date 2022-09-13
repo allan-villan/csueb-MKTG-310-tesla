@@ -3,6 +3,8 @@ A Marketing Research project where a group and I created and administered a mark
 
 The goal of this project was to analyze the survey results and provide actionable intelligence for Tesla, detailed in a 10 page report.
 
+![image](https://user-images.githubusercontent.com/84660320/190005821-a1b747c1-3c91-4417-9da8-0015b30cc8ff.png)
+
 This project covered a wide range of topics that includes:
 ---
 - Data analysis
@@ -16,8 +18,6 @@ This project covered a wide range of topics that includes:
   - Analysis of variance (ANOVA)
   - Isolation of independent variables
   - Cross tabulation
-
-![image](https://user-images.githubusercontent.com/84660320/190005821-a1b747c1-3c91-4417-9da8-0015b30cc8ff.png)
 
 ## Survey Results Preview:
 Most of the results were ordinal data. In all the survey included: ordinal, nominal and discrete data.
@@ -39,7 +39,7 @@ Most of the results were ordinal data. In all the survey included: ordinal, nomi
 
 ![image](https://user-images.githubusercontent.com/84660320/189795871-1b2f105d-1348-45ba-8240-88755cdb0e7e.png)
 
-## Recommendation Key Takeaways (Analysis done in 2019)
+## Recommendations (Analysis done in 2019)
 Based on survey results, we found that:
 - The younger generation was more willing to buy electric powered vehicles
 - It's difficult to identify who's willing and able to purchase a Tesla because most of those interviewed were college students
@@ -47,9 +47,11 @@ Based on survey results, we found that:
 - With North America reaching its saturation point for Model 3's, Tesla should focus on other developed markets that are beginning to enforce more strict environmental laws, China and Europe being prime candidates
 - Because 55.56% of the people that were interviewed were between the ages of 19-23, our recommendations were skewed to releasing a cheaper alternative to the Model 3
 
-### Conclusion:
+## Conclusion:
 The project received an **A** due to meeting all requirements. A key focus of this project was to make *data-driven decisions*, only using *personal bias* and *intuition* to find correlations in the data that is significant enough to act upon.
 
-It was *difficult* but ***rewarding***.
+### It was *difficult* but ***rewarding***.
 
-When discussing the direction of the project with my groupmates, I was a large influence in making *data-driven suggestions*. Because the use of statistics and working with data was new to a majority of my group, I took hold of the helm and guided us to the finish line. Overall, it was a great experience and I'm grateful to have taken this course as it marks the date for my interest in working with data full-time.
+When discussing the direction of the project with my groupmates, I was a large influence in making *data-driven suggestions*. Because the use of statistics and working with data was new to a majority of my group, I took hold of the helm and guided us to the finish line. 
+
+Overall, it was a great experience and I'm grateful to have taken this course as it marks the date for my interest in working with data full-time.
