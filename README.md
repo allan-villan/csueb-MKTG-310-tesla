@@ -3,18 +3,21 @@ A Marketing Research project where a group and I created and administered a mark
 
 The goal of this project was to analyze the survey results and provide actionable intelligence for Tesla, detailed in a 10 page report.
 
-This project covered a wide range of topics that included:
+This project covered a wide range of topics that includes:
+---
 - Data analysis
-- Data visualization
 - Data cleaning
+- Data visualization
 - How to create a well-rounded survey
-- Foundational understanding of the types of data
+- Foundational understanding of types of data (Qualitative vs. Quantitative)
 - Communicating findings in a detailed report
 - Presenting findings in a PowerPoint presentation
-- Statistical concepts
-- Analysis of variance (ANOVA)
-- Isolation of independent variables
-- Cross tabulation
+- Statistical concepts:
+  - Analysis of variance (ANOVA)
+  - Isolation of independent variables
+  - Cross tabulation
+
+![image](https://user-images.githubusercontent.com/84660320/190005821-a1b747c1-3c91-4417-9da8-0015b30cc8ff.png)
 
 ## Survey Results Preview:
 Most of the results were ordinal data. In all the survey included: ordinal, nominal and discrete data.
@@ -25,7 +28,7 @@ Most of the results were ordinal data. In all the survey included: ordinal, nomi
 ## Example of Data Analysis (Important Correlations in Data):
 ![image](https://user-images.githubusercontent.com/84660320/189796017-8bdb9654-afb6-4f08-88e2-caa4bd08774f.png)
 
-## Data Visualization of the Survey Results:
+## Data Visualization of Key Survey Results:
 ![image](https://user-images.githubusercontent.com/84660320/189795846-50109469-578f-49f7-9fa0-b6fd54549b00.png)
 
 ![image](https://user-images.githubusercontent.com/84660320/189795851-50eb3b56-fb2f-4823-95e4-c5f88a1e9612.png)
@@ -45,6 +48,8 @@ Based on survey results, we found that:
 - Because 55.56% of the people that were interviewed were between the ages of 19-23, our recommendations were skewed to releasing a cheaper alternative to the Model 3
 
 ### Conclusion:
-The project received an **A** due to meeting all requirements. It was *difficult*, but ***rewarding***. 
+The project received an **A** due to meeting all requirements. A key focus of this project was to make *data-driven decisions*, only using *personal bias* and *intuition* to find correlations in the data that is significant enough to act upon.
 
-When discussing the direction of the project with my groupmates, I was a large influence in making data-driven suggestions. Because the use of statistics and working with data was new to a majority of my group, I took hold of the helm and guided us to the finish line. Overall, it was a great experience and I'm grateful to have taken this course as it marks the date for my interest in working with data full-time.
+It was *difficult* but ***rewarding***.
+
+When discussing the direction of the project with my groupmates, I was a large influence in making *data-driven suggestions*. Because the use of statistics and working with data was new to a majority of my group, I took hold of the helm and guided us to the finish line. Overall, it was a great experience and I'm grateful to have taken this course as it marks the date for my interest in working with data full-time.
