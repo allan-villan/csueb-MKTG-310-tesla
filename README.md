@@ -36,7 +36,7 @@ Most of the results were ordinal data. In all the survey included: ordinal, nomi
 
 ![image](https://user-images.githubusercontent.com/84660320/189795871-1b2f105d-1348-45ba-8240-88755cdb0e7e.png)
 
-## Recommendation Key Takeaways (Analysis done in 2018)
+## Recommendation Key Takeaways (Analysis done in 2019)
 Based on survey results, we found that:
 - The younger generation was more willing to buy electric powered vehicles
 - It's difficult to identify who's willing and able to purchase a Tesla because most of those interviewed were college students
