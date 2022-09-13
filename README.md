@@ -1,5 +1,5 @@
 # csueb-MKTG-310-tesla
-A Marketing Research project where a group and I created and administered a marketing survey that was designed to retrieve general demographics, their financial situation and questions pertaining to owning/purchasing car(s). A variety of brands were included to isolate independant variables for more detailed analysis of the survey results. 
+A Marketing Research project where a group and I created and administered a marketing survey that was designed to retrieve general demographics, financial status and insights pertaining to owning/purchasing car(s). A variety of brands were included to isolate independant variables for more detailed analysis of the survey results. 
 
 ### Student Learning Outcomes for the course:
 - Demonstrate an understanding of the role and process of research in making marketing decisions.
