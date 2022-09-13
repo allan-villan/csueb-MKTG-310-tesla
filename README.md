@@ -1,7 +1,14 @@
 # csueb-MKTG-310-tesla
 A Marketing Research project where a group and I created and administered a marketing survey that was designed to retrieve general demographics, their financial situation and questions pertaining to owning/purchasing car(s). A variety of brands were included to isolate independant variables for more detailed analysis of the survey results. 
 
-The goal of this project was to analyze the survey results and provide actionable intelligence for Tesla, detailed in a 10 page report.
+### Student Learning Outcomes for the course:
+- Demonstrate an understanding of the role and process of research in making marketing decisions.
+- Apply skills and techniques in designing data collection instruments including surveys.
+- Apply skills in collecting and coding primary data.
+- Analyze marketing research information to guide managerial decisions.
+- Utilize the appropriate statistical software for data analysis.
+- Communicate marketing research results in both oral and written form.
+- Integrate knowledge, skills, and techniques of marketing research in a marketing research project.
 
 ![image](https://user-images.githubusercontent.com/84660320/190005821-a1b747c1-3c91-4417-9da8-0015b30cc8ff.png)
 
