@@ -1,5 +1,5 @@
 # csueb-MKTG-310-tesla
-A Marketing Research project where a group and I created and administered a marketing survey that was designed to retrieve general demographics, financial status and insights pertaining to owning/purchasing car(s). A variety of brands were included to isolate independant variables for more detailed analysis of the survey results. 
+This GitHub repository houses a Marketing Research project a group and I completed at Cal State East Bay. This project involved deriving insights from surveys, that we created and administered, to get a deeper look at the survey pool's general demographics, their current financial status, as well as insights pertaining to any current / future vehicles. A variety of brands were included to isolate independant variables for more detailed analysis of the survey results.
 
 ### Student Learning Outcomes for the course:
 - Demonstrate an understanding of the role and process of research in making marketing decisions.
@@ -10,6 +10,11 @@ A Marketing Research project where a group and I created and administered a mark
 - Communicate marketing research results in both oral and written form.
 - Integrate knowledge, skills, and techniques of marketing research in a marketing research project.
 
+## Contents:
+- Final Report Tesla.docx
+- Tesla Converted Data.xlsx
+
+### Cover Page:
 ![image](https://user-images.githubusercontent.com/84660320/190005821-a1b747c1-3c91-4417-9da8-0015b30cc8ff.png)
 
 This project covered a wide range of topics that includes:
