@@ -4,7 +4,7 @@ This GitHub repository houses a Marketing Research project a group and I complet
 ## Technologies Used:
 1) Google Sheets
 2) Microsoft Excel 
-3) Minitab 17
+3) IBM SPSS Statistics
 4) Microsoft Word
 
 ## Contents:
